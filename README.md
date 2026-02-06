@@ -6,7 +6,7 @@
 ㅤㅤ   
 ### 🎓 Key Academic Highlight
 
-**Strategic academic collaboration and support from Prof. Dr. Nejat YUMUŞAK (Sakarya University, Faculty of Computer and Information Sciences).** 🤝
+**Strategic academic collaboration and support from Prof. Dr. Nejat YUMUŞAK (SAKARYA UNIVERSITY, Faculty of Computer and Information Sciences).** 🤝
 
 > **Note:** This document serves as official proof of my academic engagement with the Faculty of Computer Engineering and contains the Professor's professional endorsement of my technical potential.
 
