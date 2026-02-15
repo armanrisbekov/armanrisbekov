@@ -10,4 +10,4 @@
 
 > **Note:** This document serves as official proof of my academic engagement with the Faculty of Computer Engineering and contains the Professor's professional endorsement of my technical potential.
 
-[![Professor Support](https://img.shields.io/badge/Professor%20Support-Gmail_PDF-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/armanrisbekov/armanrisbekov/blob/main/Gmail_Kazakistanl%C4%B1_Bir_%C3%96%C4%9Frencinin_Gayreti_Akademik_Dan%C4%B1%C5%9Fma.pdf)
+[![Professor Support](https://img.shields.io/badge/Professor%20Support-Gmail_PDF-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/armanrisbekov/armanrisbekov/blob/main/Academic_Correspondence_Sakarya_University.pdf)
